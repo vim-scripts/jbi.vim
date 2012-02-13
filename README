@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3930
+
+Vim syntax file for the Motoman INFORM III robot programming language.
+
+See also https://github.com/matthijsk/motoman-inform-vim-syntax
